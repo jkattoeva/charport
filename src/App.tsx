@@ -117,7 +117,7 @@ export default function App() {
         {/* Footer */}
         <motion.footer variants={fadeInUp} className="space-y-10">
           <motion.a 
-            href="https://t.me/@joyfulchell"
+            href="https://t.me/joyfulchell"
             whileTap={{ scale: 0.95 }}
             className="flex items-center justify-between w-full bg-[#D4A5FF] text-black font-black uppercase py-7 px-10 rounded-[2.5rem] shadow-[0_20px_40px_rgba(212,165,255,0.1)] transition-all hover:bg-white"
           >
